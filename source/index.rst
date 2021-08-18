@@ -8,7 +8,7 @@ Introduction
 This is a simple python package for encrypting and decrypting text in Caesar's Cipher.
 
 .. note::
-    This documentation was generated on Aug 18, 2021. Version 0.0.1
+    This documentation was generated on Aug 18, 2021. Version 0.0.3
 
 
 Installation
